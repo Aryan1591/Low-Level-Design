@@ -1,2 +1,2 @@
 # Low-Level-Design
-This repo will help me prepare for LLD 
+This repo will help to prepare for LLD 
